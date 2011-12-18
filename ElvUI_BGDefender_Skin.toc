@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: |cff1784d1ElvUI|r BGDefender Skin
+## Notes: Editless BG Defender Skin For ElvUI/Tukui
+## Author: Camealion
+## Version: 1.1
+## Dependencies: BGDefender
+## OptionalDeps: Tukui, ElvUI
+
+ElvUI_BGDefender_Skin.lua
+!Functions.lua
